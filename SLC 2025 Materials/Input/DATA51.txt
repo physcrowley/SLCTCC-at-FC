@@ -1,0 +1,83 @@
+Diamond
+#                #
+#   Zombie       #
+# Lava           #
+#                #
+#        Skeleton#
+#                #
+# Spikes         #
+#        Zombie  #
+#       Chicken  #
+# Diamond        #
+#      Lava      #
+
+Gold
+#      #
+#      #
+#      #
+# Gold #
+
+Scythe
+#      Ladder  #
+#              #
+#   Spikes     #
+# Spikes       #
+#     Spikes   #
+#    Skeleton  #
+# Skeleton     #
+#              #
+#    Spikes    #
+#   Scythe     #
+#   Dragon     #
+
+Shuriken
+#            Spikes    #
+# Spikes   Spikes      #
+#   Spikes     Chute   #
+#      Spikes Chute    #
+#   Spikes             #
+#         Dragon       #
+#     Chute            #
+#                      #
+#      Shuriken  Spikes#
+
+Nunchucks
+#Spikes Spikes Spikes#
+#   Ladder           #
+#       Ladder       #
+#      Ladder        #
+#  Ladder  Spikes    #
+#                    #
+#         Dragon     #
+#    Nunchucks       #
+
+Sword
+# Lava Lava Lava #
+#   Lava  Spikes #
+#   Ladder   Lava#
+#  Spikes   Lava #
+#   Chute        #
+#     Sword      #
+#  Dragon   Chute#
+
+Chicken
+#Chicken#
+
+Amulet
+#        Chute #
+#              #
+#              #
+#  Spikes      #
+# Amulet  Chute#
+
+Chest
+# Lava Lava Lava Lava Lava Lava Lava Lava Chest Lava Lava Lava #
+
+Scroll
+#                   #
+#    Chute   Ladder #
+#  Ladder     Spikes#
+#  Spikes  Ladder   #
+# Spikes Spikes Lava#
+#    Ladder  Lava   #
+# Scroll      Lava  #

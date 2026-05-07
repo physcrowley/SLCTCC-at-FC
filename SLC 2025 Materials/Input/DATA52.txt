@@ -1,0 +1,84 @@
+Gemstone
+#        Monster     #
+#  Spikes   Ladder   #
+#                    #
+#    Lava    Gemstone#
+
+Rock
+#       #
+#       #
+# Rock  #
+
+Crystal
+#       Ant #
+# Box       #
+#    Spikes #
+# Lava Lava #
+#    Crystal#
+
+Candle
+#   Crystal       #
+# Rock       Rock #
+#      Spikes     #
+# Chute    Lava   #
+#       Spikes    #
+#  Spikes   Candle#
+
+Doll
+#Doll Spikes Lava#
+
+Chest
+#                 #
+#     Goblin      #
+#  Merchant       #
+#        Spikes   #
+# Ladder   Spikes #
+#    Lava   Chest #
+
+Hero
+#             #
+#     Lava    #
+# Spikes      #
+#      Chain  #
+# Lava Ladder #
+#Ladder Spikes#
+#             #
+#    Chute    #
+#Hero Cage    #
+#             #
+#     Chalice #
+
+Artifact
+#           Orc      #
+#                    #
+#   Spikes  Chute    #
+# Spikes             #
+#Ladder Spikes Spikes#
+#                    #
+#      Lava          #
+#           Artifact #
+#                    #
+
+Weapon
+#                          #
+#                          #
+#        Sword             #
+#  Scythe        Nunchucks #
+#       Shuriken           #
+# Lava Lava Lava Lava Lava #
+# Lava Lava Lava Lava Lava #
+#    Snake      Snake      #
+#  Snake       Snake  Snake#
+#       Weapon             #
+#        Oni               #
+#   Spikes        Spikes   #
+#      Chute               #
+
+Party
+#      Guardian     #
+#  Spikes   Chute   #
+#                   #
+#       Spikes      #
+#    Ladder    Lava #
+#                   #
+#           Party   #

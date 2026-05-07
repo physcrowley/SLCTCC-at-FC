@@ -1,0 +1,20 @@
+1
+D F# A D
+-3
+G A B C D E F#
+0
+A# C E
+4
+Bb C D Eb F
+0
+C E G B
+-1
+C D E F G
+-2
+G A B
+-3
+Ab Bb C Db Eb
+2
+D F G A
+13
+E F# G# A B C# D# E
