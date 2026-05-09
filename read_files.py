@@ -1,18 +1,20 @@
-"""Gabarit pour l'accès à un fichier
-"""
+"""Gabarit pour l'accès à un fichier et le traitement des ses données"""
 
-INPUT_PATH = "SLC_2024/Input/DATA11.txt" 
+INPUT_PATH = "" # mettre le chemin approprié entre guillemets ici
 
+# PLACER LES DONNÉES DU FICHIER EN MÉMOIRE (accessible via la liste 'data')
 data = []
 with open(INPUT_PATH, 'r') as file:
     data = file.readlines()
 
-end = -1
-for pos in range(len(data)):
-   if pos == end + 1:
-     steps = int(line)
-     end = pos + steps
-     continue
-   for _ in range(num):
-print(data)
+
+# TRAITER LES DONNÉES
+
+## variables et structures de données
+
+
+## itération sur les données structurées
+
+
+## calcul final, au besoin
 
