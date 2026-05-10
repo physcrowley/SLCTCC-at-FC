@@ -44,8 +44,7 @@ class Cipher:
             pos = search_text.find(self.S)
             # cas de sortie : aucune autre substitution
             if pos == -1:
-                final_pos = len(self.M) - len(result)
-                result += self.M[-final_pos:]
+                result += search_text
                 break
             # cas itératif : substitution trouvée
             count += 1
