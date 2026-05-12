@@ -1,0 +1,5 @@
+run code, send output (`>`) to output.txt
+enter cmd
+enter fc output.txt Path\to\ExpectedOutput\q{number}{attempt}.txt
+
+get number and attempt as parameters in script call
