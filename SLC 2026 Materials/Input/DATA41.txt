@@ -1,0 +1,58 @@
+20
+mkdir a
+mkdir b
+mkdir c
+cd c
+mkdir d
+cd d
+pwd
+cd ..
+cd ..
+pwd
+cd d
+cd a
+mkdir e
+cd e
+pwd
+cd ..
+cd ..
+cd ..
+cd ..
+pwd
+10
+cd a
+mkdir one
+cd one
+mkdir two
+cd two
+mkdir three
+cd three
+mkdir four
+cd four
+pwd
+0
+1
+pwd
+9
+mkdir x
+cd x
+mkdir y
+cd ..
+mkdir x
+cd x
+pwd
+cd y
+pwd
+7
+mkdir a
+cd a
+mkdir b
+cd ..
+mkdir b
+cd b
+pwd
+1
+mkdir test
+2
+cd test
+pwd

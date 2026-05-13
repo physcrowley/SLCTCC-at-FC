@@ -1,0 +1,52 @@
+11
+mkdir g
+mkdir h
+cd g
+mkdir h
+cd h
+pwd
+cd ..
+cd ..
+cd h
+cd g
+pwd
+1
+mkdir catch
+2
+cd catch
+pwd
+12
+cd ..
+cd ..
+pwd
+mkdir folder
+cd folder
+pwd
+mkdir folderb
+cd ..
+mkdir folder
+cd folder
+cd folderb
+pwd
+9
+mkdir mkdir
+cd mkdir
+pwd
+mkdir cd
+cd cd
+pwd
+cd ..
+cd ..
+pwd
+11
+mkdir a
+cd a
+mkdir b
+cd b
+mkdir c
+cd c
+mkdir d
+cd d
+mkdir e
+cd e
+pwd

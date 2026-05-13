@@ -1,0 +1,23 @@
+RESTOCK 11 ham sandwich
+AMOUNT ham sandwich
+SELL 7 ham sandwich
+AMOUNT ham sandwich
+SELL 7 cheese sandwich
+RESTOCK 25 cheese pizza
+RESTOCK 31 pepper
+AMOUNT pepper
+AMOUNT pepperoni pizza
+RESTOCK 6 cheese sandwich
+AMOUNT ham sandwich
+SELL 48 cheese sandwich
+AMOUNT cheese sandwich
+RESTOCK 3 milk
+SELL 4 milk
+SELL 2 milk
+SELL 1 milk
+AMOUNT milk
+AMOUNT soda
+RESTOCK 5 soda
+AMOUNT soda
+RESTOCK 5 soda
+AMOUNT soda

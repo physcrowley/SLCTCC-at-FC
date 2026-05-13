@@ -9,7 +9,7 @@ individuels est alors très simple en fin de programme.
 """
 
 TESTING = False
-INPUT_PATH = "test6.txt" if TESTING else "SLC_2024/Input/DATA61.txt"
+INPUT_PATH = "test6.txt" if TESTING else "SLC 2024 Materials/Input/DATA61.txt"
 
 # PLACER LES DONNÉES DU FICHIER EN MÉMOIRE
 data = []

@@ -1,0 +1,21 @@
+RESTOCK 5 water
+SELL 2 water
+AMOUNT water
+SELL 4 water
+AMOUNT water
+AMOUNT soda
+RESTOCK 20 water
+RESTOCK 4 soda
+SELL 15 water
+AMOUNT soda
+AMOUNT juice
+SELL 4 soda
+AMOUNT soda
+RESTOCK 55 juice
+AMOUNT juice
+SELL 10 milk
+AMOUNT milk
+RESTOCK 10 cherry slushie
+AMOUNT cherry slushie
+SELL 1 cherry slushie
+AMOUNT cherry slushie
